@@ -12,7 +12,7 @@ export default function App() {
 
     <CasrList/>
 
-      <StatusBar style="auto" />
+    <StatusBar style="auto" />
     </View>
   );
 }
